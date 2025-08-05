@@ -193,10 +193,5 @@ java -cp bin DBAppTest
 - Java Serialization API for persistent storage
 - B+ Tree algorithm implementation for indexing
 
-## 📞 Support
-
-For questions, issues, or contributions, please open an issue on the GitHub repository.
-
----
 
 **Note**: This is a lightweight database engine designed for educational and small-scale applications. For production use, consider established database systems like MySQL, PostgreSQL, or MongoDB.

@@ -183,15 +183,11 @@ java -cp bin DBAppTest
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👥 Authors
 
-- **Database Engine Team** - *Initial work* - [Your Name]
+- **Database Engine Team** - *Initial work* - [Mark Maged]
 
-## 🙏 Acknowledgments
 
 - Java Collections Framework for efficient data structures
 - Java Serialization API for persistent storage
